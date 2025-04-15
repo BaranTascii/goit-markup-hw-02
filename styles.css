@@ -40,6 +40,9 @@ body {
   letter-spacing: 2%;
   color: #434455;
 }
+.main-header {
+  background-color: #2e2f42;
+}
 .header1 {
   font-weight: 700;
   font-size: 56px;
@@ -47,18 +50,71 @@ body {
   letter-spacing: 2%;
   text-align: center;
   color: #ffffff;
-  background-color: #2e2f42;
 }
 .button1 {
   font-weight: 500;
   font-size: 16px;
   line-height: 24px;
   letter-spacing: 4%;
-  text-align: center;
+  display: grid;
+  place-items: center;
   color: #ffffff;
   background-color: #4d5ae5;
+}
+.feature {
+  background-color: #ffffff;
 }
 .feature-list {
   list-style-type: none;
   padding-left: 0;
+}
+.header2 {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  letter-spacing: 2%;
+}
+.feature-text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 2%;
+  color: #434455;
+}
+.team {
+  background-color: #f4f4fd;
+}
+.header3{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 40px;
+    letter-spacing: 2%;
+    text-align: center;
+}
+.team-list {
+  list-style-type: none;
+  padding-left: 0;
+}
+.team-images {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.team-names {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  letter-spacing: 2%;
+  text-align: center;
+}
+.team-text{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+    text-align: center;
+    color: #434455;
+}
+.portfolio{
+    background-color: #E7E9FC;
 }
