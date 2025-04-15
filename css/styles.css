@@ -16,6 +16,7 @@ body {
   font-size: 18px;
   line-height: 21px;
   letter-spacing: 3%;
+  text-decoration: none;
 }
 .web {
   color: #4d5ae5;
@@ -32,11 +33,13 @@ body {
   font-size: 16px;
   line-height: 24px;
   letter-spacing: 2%;
+  text-decoration: none;
 }
 .text {
   font-size: 16px;
   line-height: 24px;
   letter-spacing: 2%;
+  text-decoration: none;
   color: #434455;
 }
 .main-header {
