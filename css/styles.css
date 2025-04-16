@@ -7,7 +7,9 @@ body {
   color: #2e2f42;
 }
 .top-line {
-  background-color: #FFFFFF;
+  border-width: 1px;
+  border-color: #e7e9fc;
+  background-color: #ffffff;
 }
 
 .logo {
@@ -52,10 +54,10 @@ body {
   line-height: 60px;
   letter-spacing: 2%;
   text-align: center;
-  color: #FFFFFF;
+  color: #ffffff;
 }
 button {
-    display: block;
+  display: block;
   margin-left: auto;
   margin-right: auto;
 }
@@ -66,11 +68,11 @@ button {
   letter-spacing: 4%;
   cursor: pointer;
   position: relative;
-  color:#FFFFFF;
+  color: #ffffff;
   background-color: #4d5ae5;
 }
 .feature {
-  background-color: #FFFFFF;
+  background-color: #ffffff;
 }
 .feature-list {
   list-style-type: none;
@@ -88,7 +90,7 @@ button {
   background-color: #f4f4fd;
 }
 .header3 {
-  font-weight:500;
+  font-weight: 500;
   font-size: 20px;
   line-height: 24px;
   letter-spacing: 2%;
@@ -99,22 +101,23 @@ button {
   padding-left: 0;
   text-align: center;
 }
-.portfolio-list{
-    list-style-type: none;
-    padding-left: 0;
-    text-align: center;
+.portfolio-list {
+  list-style-type: none;
+  padding-left: 0;
+  text-align: center;
 }
-footer{
-    background-color: #2E2F42;
+footer {
+  background-color: #2e2f42;
 }
-.web2{
-    color: #4D5AE5;
+.web2 {
+  color: #4d5ae5;
 }
-.studio2{
-    color: #F4F4FD;
-}.footer-text{
-    font-size: 16px;
-    line-height: 24px;
-    letter-spacing: 2%;
-    color: #F4F4FD;
+.studio2 {
+  color: #f4f4fd;
+}
+.footer-text {
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 2%;
+  color: #f4f4fd;
 }
